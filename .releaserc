@@ -1,5 +1,5 @@
 {
-  "branches": "master",
+  "branches": [{name: 'develop', prerelease: true}],
   "repositoryUrl": "https://github.com/thecodinganalyst/semantic-java",
   "debug": "false",
   "plugins": [
